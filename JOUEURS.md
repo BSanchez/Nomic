@@ -7,5 +7,6 @@
 | Light-Dark-Angel   |          |              |
 | MrHenryIV          |          |              |
 | Pouletpanda        |          |              |
+| Tamod-Hub          |          |              |
 | Thoux              |          |              |
 | Xinginn            |          |              |
