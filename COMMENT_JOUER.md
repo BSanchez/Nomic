@@ -40,7 +40,7 @@ Le commit sur la branche master étant impossible, une création de pull request
 le greffier (BSanchez) comme "Reviewer", puis soumettez la pull request : le vote commence.
 
 # Comment voter
-Pour voter, il faut commenter la pull request ouverte un pouce en l'air pour un vote positif (:+1:) ou un pouce en bas pour un vote négatif (:-1:). En cas de plusieurs votes, pas besoin de
+Pour voter, il faut commenter la pull request ouverte un pouce en l'air pour un vote positif (:+1:)(en tapant `:+1:`) ou un pouce en bas pour un vote négatif (:-1:) (en tapant `:-1:`). En cas de plusieurs votes, pas besoin de
 supprimer son ancien vote, seul le dernier vote est pris en compte.
 
 # Comment invoquer un jugement
